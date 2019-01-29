@@ -4,4 +4,4 @@
 
 This can be viewed online at https://weattendapp.firebaseapp.com
 
-# MORE FEATURES ARE GOING TO BE ADDED SOON.
+MORE FEATURES ARE GOING TO BE ADDED SOON.
